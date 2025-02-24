@@ -1,6 +1,6 @@
 # SPED Fiscal - Analisador e Gerador de Relatório BNDES
 <br/>
-Este é um script simples em Python que processa um arquivo SPED Fiscal, extraí informações relacionadas às notas fiscais e gera um relatório formatado no formato .xlsx para facilitar a análise e utilização de dados para o BNDES.
+Este é um script simples em Python que processa um arquivo SPED Fiscal, extrai informações relacionadas às notas fiscais e gera um relatório formatado no formato .xlsx para facilitar a análise e utilização de dados para o BNDES.
 <br/>
 <br/>
 
