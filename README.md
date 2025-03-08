@@ -24,8 +24,8 @@ O arquivo SPED Fiscal deve ser no formato .txt e estar codificado em ISO-8859-1;
 <br/>
 
 ### Execução:
-Execute o script Python no seu terminal ou ambiente de desenvolvimento.
-O script irá pedir para selecionar o arquivo SPED Fiscal e processará os dados automaticamente.
+Execute o script Python no seu terminal ou ambiente de desenvolvimento.  
+O script irá pedir para selecionar o arquivo SPED Fiscal e processará os dados automaticamente.  
 O script irá gerar um arquivo Excel (.xlsx) com os resultados na mesma pasta onde o script foi executado.
 <br/>
 Exemplo de Saída
