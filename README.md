@@ -10,7 +10,7 @@ Lê o arquivo SPED Fiscal no formato .txt (delimitado por |).
 Extrai informações das notas fiscais, como:
 Chave de Acesso,
 Código, Descrição, Valor, CST, CFOP.  
-Utiliza a tabela de NCM (código de mercadoria) para incluir informações adicionais nas notas.
+Utiliza a NCM (código de mercadoria) para incluir informações adicionais nas notas.
 Filtra as notas de acordo com determinados critérios.
 Gera um arquivo Excel (.xlsx) com as informações processadas, pronto para ser utilizado.
 <br/>
