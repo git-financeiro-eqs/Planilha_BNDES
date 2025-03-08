@@ -8,7 +8,7 @@ Este é um script simples em Python que processa um arquivo SPED Fiscal, extrai 
 
 Lê o arquivo SPED Fiscal no formato .txt (delimitado por |).
 Extrai informações das notas fiscais, como:
-Chave de Acesso
+Chave de Acesso,
 Código, Descrição, Valor, CST, CFOP
 Utiliza a tabela de NCM (código de mercadoria) para incluir informações adicionais nas notas.
 Filtra as notas de acordo com determinados critérios.
